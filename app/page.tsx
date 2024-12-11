@@ -1,5 +1,5 @@
-import HomeClient from './(home)/components/clients/HomeClient';
+import HomeClient from './spots/components/SpotsMap';
 
 export default function Home() {
-  return <HomeClient />;
+  return <></>;
 }
